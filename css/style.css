@@ -48,6 +48,10 @@ img[src="/images/1 блок.svg"] {
 
 }
 
+.blocks h2 {
+  margin-bottom: 20px;
+  color: #12d844;
+}
 .tooltip {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.8);
