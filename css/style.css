@@ -9,7 +9,7 @@ body {
 
 img[src="images/3 блок.svg"] {
      
-      margin-top: 50px;
+      margin-top: 80px;
       width: 800px;
       transform: rotate(90deg);
       height: 600px;
@@ -20,7 +20,7 @@ img[src="images/3 блок.svg"] {
 
 img[src="images/2 блок.svg"] {
 
-  margin-top: 50px;
+  margin-top: 10px;
   width: 800px;
   transform: rotate(90deg);
   height: 600px;
