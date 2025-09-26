@@ -7,7 +7,7 @@ body {
 
 
 
-img[src="/images/3 блок.svg"] {
+img[src="images/3 блок.svg"] {
      
       margin-top: 50px;
       width: 800px;
@@ -18,7 +18,7 @@ img[src="/images/3 блок.svg"] {
     
 }
 
-img[src="/images/2 блок.svg"] {
+img[src="images/2 блок.svg"] {
 
   margin-top: 50px;
   width: 800px;
@@ -28,7 +28,7 @@ img[src="/images/2 блок.svg"] {
   margin-bottom: 40px;
 
 }
-img[src="/images/1 блок.svg"] {
+img[src="images/1 блок.svg"] {
 
   margin-top: 100px;
   width: 800px;
